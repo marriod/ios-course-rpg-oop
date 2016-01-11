@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  rpgoop
 //
-//  Created by Mark Price on 8/10/15.
-//  Copyright © 2015 devslopes. All rights reserved.
+//  Created by Dean Marriott on 11/1/16 as part of the ios developer course.
+//  Copyright © 2016 gizmu. All rights reserved.
 //
 
 import UIKit
